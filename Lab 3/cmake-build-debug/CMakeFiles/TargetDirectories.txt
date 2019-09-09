@@ -1,0 +1,3 @@
+/home/beaku/Documents/GVC/Lab 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/beaku/Documents/GVC/Lab 3/cmake-build-debug/CMakeFiles/Lab_3.dir
+/home/beaku/Documents/GVC/Lab 3/cmake-build-debug/CMakeFiles/edit_cache.dir
