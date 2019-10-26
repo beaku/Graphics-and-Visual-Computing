@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lab_5.dir/main.cpp.o CMakeFiles/Lab_5.dir/bezeir.cpp.o CMakeFiles/Lab_5.dir/circle.cpp.o CMakeFiles/Lab_5.dir/main2.cpp.o  -o Lab_5 -lglut -lGLU -lGL -lSDL2 -lm 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lab_6.dir/main.cpp.o CMakeFiles/Lab_6.dir/fracviewer.c.o  -o Lab_6 -lGL -lGLU -lX11 -lglut -lm 
